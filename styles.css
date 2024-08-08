@@ -1,11 +1,13 @@
 body {
     background-color: rgb(255, 255, 165);
     font-family: "Comfortaa", sans-serif;
+    background-color: #00a6a6;
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
+    border: 10px;
+    border-color: #00a6a6;
+    border-radius: 20px;
     height: 400px;
 }
 
@@ -13,7 +15,7 @@ body {
     text-decoration: none;
     color: black;
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: #83c5be;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
